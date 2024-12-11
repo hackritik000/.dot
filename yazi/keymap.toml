@@ -1,0 +1,6 @@
+# keymap.toml
+[manager]
+prepend_keymap = [
+]
+append_keymap = [
+]
